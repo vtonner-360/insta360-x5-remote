@@ -76,7 +76,7 @@ class Insta360BluetoothService : Service() {
         const val DEFAULT_NAME_FILTER = "Insta360"
 
         // PLACEHOLDER UUIDs — replace once the real protocol is confirmed.
-        private val SERVICE_UUID = UUID.fromString("000000ff-0000-1000-8000-00805f9b34fb")
+        private val SERVICE_UUID = UUID.fromString("0000be80-0000-1000-8000-00805f9b34fb")
         private val COMMAND_CHAR_UUID = UUID.fromString("00000002-0000-1000-8000-00805f9b34fb")
         private val STATE_CHAR_UUID = UUID.fromString("00000003-0000-1000-8000-00805f9b34fb")
         private val BATTERY_CHAR_UUID = UUID.fromString("00000004-0000-1000-8000-00805f9b34fb")
