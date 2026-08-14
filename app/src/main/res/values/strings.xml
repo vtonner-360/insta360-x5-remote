@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Insta360 X5 Remote</string>
+
+    <string name="status_disconnected">Status: Disconnected</string>
+    <string name="status_connecting">Status: Connecting…</string>
+    <string name="status_connected">Status: Connected</string>
+    <string name="status_error">Status: Error</string>
+    <string name="battery_unknown">Battery: --%%</string>
+
+    <string name="btn_connect">Connect Camera</string>
+    <string name="btn_record">REC</string>
+    <string name="btn_photo">PHOTO</string>
+    <string name="btn_highlight">HIGHLIGHT</string>
+
+    <string name="toast_scanning">Scanning for nearby Insta360 camera…</string>
+    <string name="toast_photo_taken">Photo captured</string>
+    <string name="toast_highlight_marked">Highlight marked</string>
+</resources>
