@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun connectToCamera() {
-        bluetoothService?.connectToCameraByName("Insta360")
+        bluetoothService?.connectToCameraByName("X5")
         Toast.makeText(this, R.string.toast_scanning, Toast.LENGTH_SHORT).show()
     }
 
